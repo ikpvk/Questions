@@ -1,4 +1,4 @@
-package quest;
+package quest.watertrap;
 
 import java.util.ArrayList;
 import java.util.Collections;

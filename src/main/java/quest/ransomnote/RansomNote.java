@@ -1,4 +1,4 @@
-package quest;
+package quest.ransomnote;
 
 public class RansomNote {
     public static void main(String[] args) {
