@@ -3,7 +3,7 @@ package quest.sortzeroesandones;
 import java.util.Arrays;
 
 public class Solution {
-    public void sortZeroOne(int arr[]) {
+    public void sortZeroOne(int[] arr) {
         if(null == arr || arr.length==0) {
             return;
         }

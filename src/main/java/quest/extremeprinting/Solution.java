@@ -7,7 +7,8 @@ public class Solution {
         }
 
         int length = arr.length;
-        int leftP = 0, rightP = length-1;
+        int leftP = 0;
+        int rightP = length-1;
         while(leftP<rightP) {
             System.out.print(arr[leftP]+ " " + arr[rightP]+ " ");
             leftP++;

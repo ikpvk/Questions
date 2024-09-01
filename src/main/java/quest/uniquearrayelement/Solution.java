@@ -1,7 +1,7 @@
 package quest.uniquearrayelement;
 
 public class Solution {
-    public void findUniqueElement(int arr[]) {
+    public void findUniqueElement(int[] arr) {
         if(null==arr || arr.length==0) {
             return;
         }
